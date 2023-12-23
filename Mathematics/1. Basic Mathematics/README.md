@@ -11,5 +11,5 @@ This chapter is covering :
 8. Sigmoid Function
 9. Trigonometric Function
 10. Absolute Value and Euclidean Distance
-11. Numerical Sequence
+11. Matrix
 12. Set and Elements
