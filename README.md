@@ -2,7 +2,7 @@
 
 After continuing my studies in the field of AI, I realized that my knowledge needs to be improved to better understand the contents I am dealing with.<br>
 Therefore, I decided to study from the very beginning.<br>
-Here is the list of the contents I will study.
+Here is the list of the contents I will study.<br>
 <sub>The list can be updated and refined as I progress through the studies.</sub>
 
 1. Mathematics
