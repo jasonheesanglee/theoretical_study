@@ -9,4 +9,5 @@ Here is the list of the contents I will study.<br>
 2. Transformers (Logic & Implementation)
 3. BERT
 4. GPT
-5. LLM
+5. Deep Research in Evaluation Metrics (what do they even mean and how to construct them)
+6. LLM
