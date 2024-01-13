@@ -9,3 +9,7 @@ There are two files in this directory. (which are all in progress for now)<br>
 
 2. Attention Is All You Need.pdf
    - This is a digital copy of the research paper with hand-written notes.
+
+<p align="center">
+   <img width="452" alt="image" src="https://github.com/jasonheesanglee/theoretical_study/assets/123557477/4aedd0a6-61c6-44c3-bd0d-9dca890247c8">
+</p>
