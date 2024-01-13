@@ -1,6 +1,6 @@
 # Attention Is All You Need
 
-There are two files in this directory. (which are all in progress for now)<br>
+There are two files in this directory.<br>
 
 1. Transformer.ipynb
    - This is a Jupyter Notebook that contains the implementation of *Attention Is All You Need* <br>
