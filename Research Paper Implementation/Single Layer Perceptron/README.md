@@ -9,6 +9,7 @@ There are two files in this directory.<br>
 
 2. Single Layer Perceptron.pdf
    - This is a digital copy of the research paper with hand-written notes.
+   - <sub>Why does it feel like I am reading a Biology Research Paper... Not Computer Science Research Paper...</sub>
 
 <p align="center">
    <img width="261" alt="image" src="https://github.com/jasonheesanglee/theoretical_study/assets/123557477/f98dfbdd-71ff-41e0-b869-a2140c39adbf"><br>
