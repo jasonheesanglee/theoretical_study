@@ -13,6 +13,6 @@ There are two files in this directory.<br>
 
 <p align="center">
    <img width="261" alt="image" src="https://github.com/jasonheesanglee/theoretical_study/assets/123557477/f98dfbdd-71ff-41e0-b869-a2140c39adbf"><br>
-  Image Retrieved from ResearchGate
+  <sub>Image Retrieved from ResearchGate</sub>
 </p>
 
