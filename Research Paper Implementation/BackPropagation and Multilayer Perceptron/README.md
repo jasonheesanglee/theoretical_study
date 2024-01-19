@@ -1,4 +1,4 @@
-# The Perceptron: A Probabilistic Model for Information Storage and Organization in the Brain
+# Backpropagation & Multilayer Perceptron Network
 
 There are two files in this directory.<br>
 
