@@ -2,12 +2,12 @@
 
 There are two files in this directory. (which are all in progress for now)<br>
 
-1. LSTM.ipynb
-   - This is a Jupyter Notebook that contains the implementation of *Long Short-term Memory* <br>
+1. RNN and LSTM.ipynb
+   - This is a Jupyter Notebook that contains the implementation of *Recurrent Neural Networks* and *Long Short-term Memory* <br>
    - Implemented sub-chapter by sub-chapter
    - Final (Full) version will be at the bottom of the notebook.
 
-2. LSTM.pdf
+2. RNN and LSTM.pdf
    - This is a digital copy of the research paper with hand-written notes.
 
 <p align="center">
