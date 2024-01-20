@@ -1,4 +1,4 @@
-# Long Short-term Memory
+# RNN & Long Short-Term Memory
 
 There are two files in this directory. (which are all in progress for now)<br>
 
