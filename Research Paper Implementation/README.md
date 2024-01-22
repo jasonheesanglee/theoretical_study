@@ -24,9 +24,9 @@ If anyone has any suggestions, please feel free to tell me! :)
 | Model | Characteristics | Main Weaknesses |
 | :---: | :--- | :--- |
 | Single-Layer Perceptron |- It is the first Neural Network Model, imitating Human Brain Cell (Neurons) <br>- It is able to solve simple Linear Classification Problems |- Unable to solve XOR problems, which requires more than one classifying standard or Non-Linear Classification.|
-| Multi-Layer Perceptron |- It can solve XOR problems with multiple hidden layers.<br>-It is the model where the term "Deep-Learning" came from|- Vanishing & Exploding Gradients<br>-High computation cost for large inputs|
-| RNN |- Utilizes hidden states as memory<br>therefore, it is able to process time-series data<br>|- Struggle in long-term dependencies. <br>The larger data it takes as input, the smaller the inclination the further part gets (due to the multiplication of weights).|
-| LSTM |- Solves the long-term dependency problem by applying Cell State (Long-Term memory) and the summation (not multiplication) of the weights<br>- It is designed to mimic human brain (forgetting unimportant things, and remembering important things)<br> |- Too many gates, too much computational cost needed.<br>- Bigger storage (or memory) needed to train longer data, as it is remembering more of the past data than other RNN models.|
+| Multi-Layer Perceptron |- It can solve XOR problems with multiple hidden layers.<br>- It is the model where the term "Deep-Learning" came from|- Vanishing & Exploding Gradients<br>- High computation cost for large inputs|
+| RNN |- Utilizes hidden states as memory<br>therefore, it is able to process time-series data<br>|- Struggle in long-term dependencies. <br>- The larger data it takes as input, the smaller the inclination the further part gets (due to the multiplication of weights).|
+| LSTM |- Solves the long-term dependency problem by applying Cell State (Long-Term memory) and the summation (not multiplication) of the weights<br>- It is designed to mimic the human brain (forgetting unimportant things and remembering important things)|- Too many gates, too much computational cost needed.<br>- Bigger storage (or memory) needed to train longer data, as it is remembering more of the past data than other RNN models.|
 | CNN | - | - |
 | GRU | - | - |
 | Transformer | | |
