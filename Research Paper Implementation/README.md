@@ -11,8 +11,8 @@ If anyone has any suggestions, please feel free to tell me! :)
 1. Attention Is All You Need (Transformer) ☑️
 2. Single Layer Perceptron ☑️
 3. Back-Propagation & Multilayer Perceptron ☑️
-4. Recurrent Neural Network (RNN) & Long Short-term Memory (LSTM) <<<< On Going >>>>
-5. Convolutional Neural Network (CNN)
+4. Recurrent Neural Network (RNN) & Long Short-term Memory (LSTM) ☑️
+5. Convolutional Neural Network (CNN) <<<< On Going >>>>
 6. Gated Recurrent Unit (GRU)
 7. Batch Normalization
 8. The graph neural network model (GNN)
