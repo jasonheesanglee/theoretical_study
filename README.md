@@ -23,7 +23,7 @@ If anyone has any suggestions, please feel free to tell me! :)
 6. Gated Recurrent Unit (GRU)
 7. Batch Normalization
 8. The graph neural network model (GNN)
-9. Transformers (All currently available models)
+9. Transformers (All publicly available models)
     
 <p align="center">
   <img alt="image" src="https://github.com/jasonheesanglee/theoretical_study/assets/123557477/cbc40d48-5396-4d59-bd41-1c785a06981f"><br>
