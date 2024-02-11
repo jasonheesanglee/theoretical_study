@@ -19,12 +19,12 @@ If anyone has any suggestions, please feel free to tell me! :)
 2. Single Layer Perceptron ☑️
 3. Back-Propagation & Multilayer Perceptron ☑️
 4. Recurrent Neural Network (RNN) & Long Short-term Memory (LSTM) ☑️
-5. Convolutional Neural Network (CNN) <<<< On Going >>>>
-6. Gated Recurrent Unit (GRU)
+5. Convolutional Neural Network (CNN) ☑️
+6. Gated Recurrent Unit (GRU) <<<< On Going >>>>
 7. Batch Normalization
 8. The graph neural network model (GNN)
 9. Transformers (All publicly available models)
-    
+
 <p align="center">
   <img alt="image" src="https://github.com/jasonheesanglee/theoretical_study/assets/123557477/cbc40d48-5396-4d59-bd41-1c785a06981f"><br>
   <sub>image retrieved from ResearchGate</sub>
@@ -39,3 +39,6 @@ If anyone has any suggestions, please feel free to tell me! :)
 | CNN | - | - |
 | GRU | - | - |
 | Transformer | | |
+
+
+
